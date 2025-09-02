@@ -1,0 +1,10 @@
+python-telegram-bot
+instagrapi
+Pillow
+python-dotenv
+moviepy
+filetype
+nest-asyncio
+sentry-sdk
+numpy
+scipy
